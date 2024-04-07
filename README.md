@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @akshatsankhyan
-- 👀 I’m currently a Software Engineer at Cisco Systems.
+- 👀 I’m currently a Software Engineer at Amazon.
+- I have also worked in Cisco Anyconnect Team as a SDE for 1 year.
 - 🌱 Technical Skills -: Java, C/C++, Python, HTML, CSS, Javascript, React.js, Linux, Computer Networks, MongoDB, MySQL, Perforce, Java Swing.
 - 💞️ CCNA Certified.
 - 📫 How to reach me 
